@@ -15,9 +15,9 @@
 - Open-source contributions & innovative ideas  
 
 ## 📫 How to Reach Me  
-- 🐦 Twitter: [@yourhandle](#)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- ✉️ Email: your.email@example.com  
+- 🐦 Twitter:
+- 💼 LinkedIn:  
+- ✉️ Email: kodewithkush@gmail.com.com  
 
 ## ⚡ Fun Fact  
 I can turn **coffee** into **code** faster than a JavaScript event loop runs 🚀  
