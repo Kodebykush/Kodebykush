@@ -1,23 +1,19 @@
 # 👋 Hi, I’m Kush (@Kodebykush)  
 
-## 🚀 About Me  
-- 🎨 Frontend Developer | 🌍 Web Enthusiast | 💡 Problem Solver  
-- 🔥 Passionate about building fast, responsive, and user-friendly websites  
-- 💻 Currently learning **backend development** (Node.js, Express, MongoDB) to become a full-stack developer  
+🔐 Aspiring Security Architect | 🧠 Cybersecurity Enthusiast | 🎮 Ex-VFX Artist Turned Hacker-in-Training
 
-## 📚 What I’m Working On  
-- **Building real-world projects** to sharpen my backend skills  
-- **Freelancing** – helping clients create amazing web applications  
-- **Expanding my tech stack** (Next.js, Firebase, Tailwind CSS, etc.)  
+Currently diving deep into the world of cybersecurity with a focus on SOC analysis, threat detection, and network defense. I’m building my skills one lab at a time (TryHackMe premium, yes!).
 
-## 🤝 Open to Collaborate  
-- Web-based projects (frontend-heavy or full-stack)  
-- Open-source contributions & innovative ideas  
+Formerly crafted visual effects and 3D worlds—now reverse-engineering digital threats instead. Passionate about blending creativity with critical thinking, whether it’s securing systems or scripting solutions.
 
-## 📫 How to Reach Me  
-- 🐦 Twitter:
-- 💼 LinkedIn:  
-- ✉️ Email: kodewithkush@gmail.com.com  
+🎯 Goals:
 
-## ⚡ Fun Fact  
-I can turn **coffee** into **code** faster than a JavaScript event loop runs 🚀  
+Land a junior cybersecurity role (SOC Analyst / SecOps)
+
+Master blue team tools and techniques
+
+Architect secure systems from the ground up
+
+📚 Learning: TryHackMe | Nmap | Wireshark | Splunk | Python | Linux
+
+Let’s connect and collaborate. Always open to feedback, learning, and hacking the limits. 
