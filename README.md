@@ -1,19 +1,45 @@
-# 👋 Hi, I’m Kush (@Kodebykush)  
+# 👋 Hi, I'm Kushal
 
-🔐 Aspiring Security Architect | 🧠 Cybersecurity Enthusiast | 🎮 Ex-VFX Artist Turned Hacker-in-Training
+I'm an aspiring IT professional, passionate about all things tech — especially **IT Support, Cloud, and Cybersecurity**. With a background in computer hardware, networking, and customer-focused technical support, I'm building a rock-solid foundation through home labs, hands-on learning, and certifications like CompTIA A+.
 
-Currently diving deep into the world of cybersecurity with a focus on SOC analysis, threat detection, and network defense. I’m building my skills one lab at a time (TryHackMe premium, yes!).
+## 🚀 What I'm Doing Now
 
-Formerly crafted visual effects and 3D worlds—now reverse-engineering digital threats instead. Passionate about blending creativity with critical thinking, whether it’s securing systems or scripting solutions.
+- 🔧 Setting up a comprehensive **IT Support Home Lab** with:
+  - Windows Server 2025
+  - Windows 11
+  - Ubuntu Linux
+- 🖥️ Exploring Active Directory, DNS, DHCP, and group policy management
+- 📘 Studying CompTIA A+ (Core 1 & 2) to strengthen my fundamentals
+- ☁️ Preparing to specialize in **Cloud + Cybersecurity**
 
-🎯 Goals:
+## 🧠 Skills I'm Building
 
-Land a junior cybersecurity role (SOC Analyst / SecOps)
+- Operating Systems: Windows, Linux (Ubuntu), Server environments
+- Virtualization: VMware Workstation, Hyper-V
+- IT Support: Troubleshooting, System setup, End-user support
+- Networking: IP addressing, subnetting, routers/switches basics
+- Tools: GitHub, VS Code, LaTeX (for clean documentation)
 
-Master blue team tools and techniques
+## 🔬 Labs & Projects
 
-Architect secure systems from the ground up
+I'll be documenting my home lab experiments, technical writeups, and learning progress right here — check out my pinned repositories to see what's cooking. 🍳
 
-📚 Learning: TryHackMe | Nmap | Wireshark | Splunk | Python | Linux
+## 🌱 What's Next?
 
-Let’s connect and collaborate. Always open to feedback, learning, and hacking the limits. 
+- Finish and document my full IT Support Lab Series
+- Start exploring cloud services (AWS/GCP/Azure) with hands-on labs
+- Build a SOC-style cybersecurity home lab
+- Land an entry-level **IT Support or Help Desk role** and grow from there!
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 📧 Email: your.email@example.com  
+- 🌐 Portfolio: Coming soon!
+
+---
+
+> “Learning by doing. Growing by building.” — My motto as I shift into tech.
+
