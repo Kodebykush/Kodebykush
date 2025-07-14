@@ -35,9 +35,8 @@ I'll be documenting my home lab experiments, technical writeups, and learning pr
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: Coming soon!
+- 💼 [LinkedIn](https://www.linkedin.com/in/kodebykush/)  
+- 📧 Email: kodewithkush@gmail.com  
 
 ---
 
